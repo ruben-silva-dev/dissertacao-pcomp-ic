@@ -6,7 +6,7 @@ A prática da Integração Contínua (IC) é crucial para a eficiência dos proc
 
 | Artefato | Descrição |
 | -------- | --------- |
-| [Ocorrências das más práticas](estudo-1/Bad practices occurrences.pdf) | Tabela de ocorrências das más práticas de IC |
+| [Ocorrências das más práticas](estudo-1/bad-practices-occurrences.pdf) | Tabela de ocorrências das más práticas de IC |
 | [](estudo-1/) |  |
 | [](estudo-1/) |  |
 | [](estudo-1/) |  |
