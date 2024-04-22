@@ -32,6 +32,7 @@ Os artefatos para cada um dos estudos secundários que compõem a dissertação 
 |  [S8 - Depois do CI](estudo-2/s8-after-ci.csv) | Valores dos atributos internos de S8 depois da implementação do CI |
 |  [Arquivo Principal Python](estudo-2/main.py) | Arquivo principal do script Python para coleta dos indicadores de qualidade |
 |  [Arquivo de Cálculo Python](estudo-2/calc.py) | Arquivo responsável pelo cálculo dos valores dos indicadores de qualidade |
+|  [Questionário](estudo-2/form.pdf) | Formulário direcionado aos membros das equipes de desenvolvimento dos sistemas analisados |
 |  [Respostas do Questionário](estudo-2/answers.csv) | Valores brutos das respostas dos membros das equipes de desenvolvimento dos sistemas analisados |
 |  [Impacto nos Indicadores de Qualidade](estudo-2/quality-indicators-impact.csv) | Resumo da análise do impacto das más práticas de CI nos indicadores de qualidade |
 |  [Dificuldade de Resolução](estudo-2/resolution-difficulty.csv) | Resumo da análise da dificuldade em resolver más práticas de CI |
