@@ -1,0 +1,16 @@
+CODE,BAD PRACTICE,CATEGORY,RELIABILITY,SECURITY,MAINTAINABILITY,TOTAL
+BP1,Some pipeline’s tasks are started manually,BPO,15,10,8,33
+BP2,Feature branches are used instead of feature toggles,REP,11,6,17,34
+BP3,Lack of testing in a production-like environment,QA,21,12,9,42
+BP4,Divergent Branches,REP,8,3,18,29
+BP5,External tools are used with their default configurations,INF,11,14,14,39
+BP6,Developers and operators are kept as separate roles,CUL,14,11,16,41
+BP7,Failures notifications are only sent to teams/developers that explicitly subscribed,BPO,11,7,13,31
+BP8,"A build fails because of some flakiness in the execution, whereas it should not",BPO,16,11,9,36
+BP9,Quality gates are defined without developers considering only what dictated by the customer,QA,18,15,8,41
+BP10,The CI server hardware is used for different purposes other than running the CI framework,INF,12,19,5,36
+BP11,Developers do not have a complete control of the environment,CUL,6,7,13,26
+BP12,Lengthy build scripts,BM,5,6,19,30
+BP13,Test cases are not organized in folders based on their purposes,REP,12,7,18,37
+BP14,Missing tests on feature branches,QA,17,17,6,40
+TOTAL,,,177,145,173,495

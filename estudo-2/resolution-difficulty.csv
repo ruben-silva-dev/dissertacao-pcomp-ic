@@ -1,0 +1,15 @@
+CODE,BAD PRACTICE,CATEGORY,LOW,MEDIUM,HIGH,SCORE
+BP8,"A build fails because of some flakiness in the execution, whereas it should not",BPO,6,8,8,46
+BP5,External tools are used with their default configurations,INF,4,8,8,44
+BP2,Feature branches are used instead of feature toggles,REP,3,8,8,43
+BP10,The CI server hardware is used for different purposes other than running the CI framework,INF,1,9,8,43
+BP9,Quality gates are defined without developers considering only what dictated by the customer,QA,5,9,6,41
+BP11,Developers do not have a complete control of the environment,CUL,6,8,6,40
+BP12,Lengthy build scripts,BM,5,8,4,33
+BP1,Some pipeline’s tasks are started manually,BPO,7,8,3,32
+BP13,Test cases are not organized in folders based on their purposes,REP,6,8,3,31
+BP7,Failures notifications are only sent to teams/developers that explicitly subscribed,BPO,5,8,3,30
+BP3,Lack of testing in a production-like environment,QA,5,9,2,29
+BP14,Missing tests on feature branches,QA,13,6,1,28
+BP4,Divergent Branches,REP,5,8,2,27
+BP6,Developers and operators are kept as separate roles,CUL,9,6,1,24

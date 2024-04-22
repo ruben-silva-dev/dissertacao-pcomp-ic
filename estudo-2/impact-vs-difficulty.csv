@@ -1,0 +1,15 @@
+CODE,BAD PRACTICE,IMPACT VALUE,DIFFICULTY VALUE,IMPACT,DIFFICULTY
+BP3,Lack of testing in a production-like environment,42,29,HIGH,EASY
+BP6,Developers and operators are kept as separate roles,41,24,HIGH,EASY
+BP13,Test cases are not organized in folders based on their purposes,37,31,HIGH,EASY
+BP14,Missing tests on feature branches,40,28,HIGH,EASY
+BP5,External tools are used with their default configurations,39,44,HIGH,HARD
+BP8,"A build fails because of some flakiness in the execution, whereas it should not",36,46,HIGH,HARD
+BP9,Quality gates are defined without developers considering only what dictated by the customer,41,41,HIGH,HARD
+BP10,The CI server hardware is used for different purposes other than running the CI framework,36,43,HIGH,HARD
+BP1,Some pipeline’s tasks are started manually,33,32,LOW,EASY
+BP4,Divergent Branches,29,27,LOW,EASY
+BP7,Failures notifications are only sent to teams/developers that explicitly subscribed,31,30,LOW,EASY
+BP2,Feature branches are used instead of feature toggles,34,43,LOW,HARD
+BP11,Developers do not have a complete control of the environment,26,40,LOW,HARD
+BP12,Lengthy build scripts,30,33,LOW,HARD
