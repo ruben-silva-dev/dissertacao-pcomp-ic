@@ -7,12 +7,12 @@ A prática da Integração Contínua (IC) é crucial para a eficiência dos proc
 | Artefato | Descrição |
 | -------- | --------- |
 | [Ocorrências das más práticas](estudo-1/bad-practices-occurrences.pdf) | Tabela de ocorrências das más práticas de IC |
-| [](estudo-1/) |  |
-| [](estudo-1/) |  |
-| [](estudo-1/) |  |
-| [](estudo-1/) |  |
-| [](estudo-1/) |  |
-| [](estudo-1/) |  |
+| [Intervalos de correção de build](estudo-1/broken-build-fix-intervals.csv) | Valores brutos dos intervalos de correção de build |
+| [Resumo dos intervalor de correção de build](estudo-1/broken-build-fix-intervals-summary.csv) | Métricas calculadas com base nos valores dos intervalos de correção de build |
+| [Respostas do formulário](estudo-1/form-answers.csv) | Respostas do formulário direcionado aos integrantes dos projetos analisados |
+| [Formulário](estudo-1/form-bad-practices-of-continuous-integration.pdf) | Perguntas direcionadas aos integrantes dos projetos analisados |
+| [Visão ordenada das más práticas de IC](estudo-1/ordered-bad-practices-occurences.pdf) | Tabela com uma visão ordenada pela quantidade de ocorrências das más práticas de IC |
+| [Script para coleta dos intervalos de correção de build](estudo-1/pipeline-api-tool.zip) | Código-fonte do script desenvolvido para coletar os valores dos intervalos de correção de build nos projetos analisados |
 
 ## Artefatos do segundo estudo
 
