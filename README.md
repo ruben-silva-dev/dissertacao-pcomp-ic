@@ -12,7 +12,6 @@ Os artefatos para cada um dos estudos secundários que compõem a dissertação 
 | [Intervalos de correção de build](estudo-1/broken-build-fix-intervals.csv) | Valores brutos dos intervalos de correção de build |
 | [Resumo dos intervalor de correção de build](estudo-1/broken-build-fix-intervals-summary.csv) | Métricas calculadas com base nos valores dos intervalos de correção de build |
 | [Respostas do formulário](estudo-1/form-answers.csv) | Respostas do formulário direcionado aos integrantes dos projetos analisados |
-| [Formulário](estudo-1/form-bad-practices-of-continuous-integration.pdf) | Perguntas direcionadas aos integrantes dos projetos analisados |
 | [Visão ordenada das más práticas de IC](estudo-1/ordered-bad-practices-occurences.pdf) | Tabela com uma visão ordenada pela quantidade de ocorrências das más práticas de IC |
 | [Script para coleta dos intervalos de correção de build](estudo-1/pipeline-api-tool.zip) | Código-fonte do script desenvolvido para coletar os valores dos intervalos de correção de build nos projetos analisados |
 
@@ -32,7 +31,6 @@ Os artefatos para cada um dos estudos secundários que compõem a dissertação 
 |  [S8 - Depois do CI](estudo-2/s8-after-ci.csv) | Valores dos atributos internos de S8 depois da implementação do CI |
 |  [Arquivo Principal Python](estudo-2/main.py) | Arquivo principal do script Python para coleta dos indicadores de qualidade |
 |  [Arquivo de Cálculo Python](estudo-2/calc.py) | Arquivo responsável pelo cálculo dos valores dos indicadores de qualidade |
-|  [Questionário](estudo-2/form.pdf) | Formulário direcionado aos membros das equipes de desenvolvimento dos sistemas analisados |
 |  [Respostas do Questionário](estudo-2/answers.csv) | Valores brutos das respostas dos membros das equipes de desenvolvimento dos sistemas analisados |
 |  [Impacto nos Indicadores de Qualidade](estudo-2/quality-indicators-impact.csv) | Resumo da análise do impacto das más práticas de CI nos indicadores de qualidade |
 |  [Dificuldade de Resolução](estudo-2/resolution-difficulty.csv) | Resumo da análise da dificuldade em resolver más práticas de CI |
